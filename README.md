@@ -21,13 +21,13 @@ my use of the AWS CLI. If I were to write this today I would use [CDK](https://a
 ### The Architecture
 
 #### Adding an image
-![Adding an image](/setup/img/ServerlessPhotoRecognition_Add_Image.png?raw=true)
+(/setup/img/ServerlessPhotoRecognition_Add_Image.png?raw=true)
 
 #### Removing an image
-![Remove an image](/setup/img/ServerlessPhotoRecognition_Remove_Image.png?raw=true)
+(/setup/img/ServerlessPhotoRecognition_Remove_Image.png?raw=true)
 
 #### Searching images
-![Search images](/setup/img/ServerlessPhotoRecognition_Search_Image.png?raw=true)
+(/setup/img/ServerlessPhotoRecognition_Search_Image.png?raw=true)
 
 ### Tech Stack
 #### Required Tools
